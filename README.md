@@ -30,15 +30,14 @@
 5. Installation and Setup
       . Cloning the Repository :
       
-               git clone https://github.com/yourusername/cardholder-transaction.git
-               cd cardholder-transaction
+               git clone https://github.com/muthukumar-git-tech/cardTransaction-dev.git
  
 	. Building the Project
       			Ensure you have Maven and Java installed. To build the project, run:
      			 mvn clean install
       
  	. Docker Setup
- 	  			Environment Variables
+                        Environment Variables
       			To manage sensitive information,use Docker secrets or an .env file
       
      . Building and Running the Application :
