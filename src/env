@@ -1,0 +1,4 @@
+DB_ROOT_PASSWORD=myrootpassword
+DB_USER=mydbuser
+DB_PASSWORD=mydbpassword
+APP_SECRET=myappsecret
